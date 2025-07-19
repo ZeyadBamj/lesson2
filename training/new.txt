@@ -1,2 +1,7 @@
+ HEAD
 # add text in the remote
 to see the changes that will happend from the remote
+
+hello from cmd 
+ 5a8dae5 (add the changes)
+هذا هو المحتوى النهائي بعد دمج التعديلات.
